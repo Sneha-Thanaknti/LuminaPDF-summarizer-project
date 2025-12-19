@@ -1,0 +1,5 @@
+{
+  "name": "LuminaPDF - Intelligent PDF Summarizer",
+  "description": "A high-performance PDF analysis tool powered by Gemini 3. Upload documents to get instant summaries, extract key insights, and chat with your files using advanced multimodal AI.",
+  "requestFramePermissions": []
+}
